@@ -13,8 +13,8 @@
  <img src="https://pbs.twimg.com/profile_images/1468001580184047616/PxDlAA8N_400x400.jpg" alt="in" width="20" height="20" target=blanck> 
  </a> </br>
  Omer Alali Software engineering student specializing in artificial intelligence 
- <a href=" https://www.linkedin.com/in/omer-alali-463b00162/"> 
- <img src="https://pbs.twimg.com/profile_images/1468001580184047616/PxDlAA8N_400x400.jpg" alt="in" width="20" height="20" target=blanck> 
+ <a href="https://www.linkedin.com/in/omer-alali-463b00162/"> 
+  <img src="https://pbs.twimg.com/profile_images/1468001580184047616/PxDlAA8N_400x400.jpg" alt="in" width="20" height="20" target=blanck> 
  </a>
  
 <h3> About the project </h3>
