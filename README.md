@@ -35,4 +35,6 @@
    * **SVM machine learning model**
    * **Naive Bayes machine learning model**
    * **Using existing AI libraries in Python**
-
+   * **An in-depth analysis of the methods and a comparison between them**
+   
+   
