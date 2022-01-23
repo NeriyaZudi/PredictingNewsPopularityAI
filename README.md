@@ -1,4 +1,4 @@
-# PredictingNewsPopularityAI <img src="https://img.shields.io/badge/version-2.0-yellowgreen" alt="version" >
+# PredictingNewsPopularityAI <img src="https://img.shields.io/badge/version-1.0-yellowgreen" alt="version" > |   <img src="https://img.shields.io/badge/Downloads-2-lightgreen" alt="dowm" >
 
 
 
