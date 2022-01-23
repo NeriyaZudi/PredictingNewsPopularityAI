@@ -12,4 +12,9 @@
  
 <h3> About the project </h3>
 
-Implementation of 2 methods of artificial intelligence to predict the popularity of news articles
+  In this project we demonstrate our knowledge in:
+   * **Problem solving using 2 methods of artificial intelligence**
+   * **SVM machine learning model**
+   * **Naive Bayes machine learning model**
+   * **Using existing AI libraries in Python**
+
