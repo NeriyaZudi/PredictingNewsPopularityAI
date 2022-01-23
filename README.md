@@ -9,11 +9,11 @@
      alt="cover" width="500" height="600">
      
 <h3> About us </h3>
-< a href="https://www.linkedin.com/in/neriyazudi/">
+<a href="https://www.linkedin.com/in/neriyazudi/">
  <img src="https://pbs.twimg.com/profile_images/1468001580184047616/PxDlAA8N_400x400.jpg" alt="in" width="50" height="50" target=blanck> 
  </a>
  Neriya Zudi  Software engineering student specializing in artificial intelligence 
- < a href=" https://www.linkedin.com/in/omer-alali-463b00162/">
+ <a href=" https://www.linkedin.com/in/omer-alali-463b00162/">
  <img src="https://pbs.twimg.com/profile_images/1468001580184047616/PxDlAA8N_400x400.jpg" alt="in" width="50" height="50" target=blanck> 
  </a>
  Omer Alali Software engineering student specializing in artificial intelligence 
