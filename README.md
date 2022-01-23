@@ -18,7 +18,17 @@
  </a>
  
 <h3> About the project </h3>
+   <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/Java_programming_language_logo.svg.png" align="right"
+     alt="py logo" width="200" height="98">
 
+     Course-Project Assignments in Java
+     The project simulates the spread of the corona virus
+     Adhesions, recoveries, statistics, ramzor colors for settlements, development of variants and more...
+     The project is java based and GUI implementation so running can be easily controlled
+ 
+ 
+ 
+ 
   In this project we demonstrate our knowledge in:
    * **Problem solving using 2 methods of artificial intelligence**
    * **SVM machine learning model**
