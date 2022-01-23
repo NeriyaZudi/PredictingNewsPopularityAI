@@ -18,13 +18,14 @@
  </a>
  
 <h3> About the project </h3>
-   <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/Java_programming_language_logo.svg.png" align="right"
+   <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/PY-logo.png" align="right"
      alt="py logo" width="200" height="98">
 
-     Course-Project Assignments in Java
-     The project simulates the spread of the corona virus
-     Adhesions, recoveries, statistics, ramzor colors for settlements, development of variants and more...
-     The project is java based and GUI implementation so running can be easily controlled
+     Course-Project Assignments in AI intro
+     In the project we used 2 methods of machine learning SVM, Naive Bayes
+     We have shown the use of models for predicting the popularity of news articles.
+     The purpose of the project was to compare the methods and a document describing
+     the analysis and comparison we performed is attached
  
  
  
