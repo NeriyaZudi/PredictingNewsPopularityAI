@@ -231,8 +231,8 @@ CrossValidation("sigmoid")
 
 end2 = time.time()
 
-print(bcolors.GREYBG, f"Runtime of the SVM model (without cross validation) is {end1 - start} seconds")
-print(bcolors.GREYBG, f"Runtime of the SVM model model (Total) is {end2 - start} seconds")
+print(bcolors.UNDERLINE, f"Runtime of the SVM model (without cross validation) is {end1 - start} seconds")
+print(bcolors.UNDERLINE, f"Runtime of the SVM model model (Total) is {end2 - start} seconds")
 
 
 

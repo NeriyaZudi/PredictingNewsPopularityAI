@@ -8,6 +8,8 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import confusion_matrix, accuracy_score, ConfusionMatrixDisplay
+from sklearn.utils import resample
+
 
 class bcolors:
     HEADER = '\033[95m'
@@ -58,6 +60,32 @@ def DropingIrrelevantData(df):
     df.drop('url', axis=1, inplace=True)
     df.drop('timedelta', axis=1, inplace=True)
     return df
+
+
+def Downsample(df, sample_number):
+    """
+    Support Vector Machines are great with small datasets, but not awesome with large ones,
+    downsample both categories, Articles that are popular and articles that are not popular
+    to the value we get as a parameter to the function each.
+    splitting the data into two dataframes, one for  Articles that are popular
+    and one for that are not popular.
+
+    :param df: data frame on which the classification is made
+    :param sample_number: The value selected for splitting
+    :return: New data frames splitting to 2 categories
+    """
+    df_popular = df[df['shares_threshold'] == 1]
+    df_no_popular = df[df['shares_threshold'] == 0]
+
+    df_popular_downsampled = resample(df_popular,
+                                      replace=False,
+                                      n_samples=sample_number,
+                                      random_state=42)
+    df_no_popular_downsampled = resample(df_no_popular,
+                                         replace=False,
+                                         n_samples=sample_number,
+                                         random_state=42)
+    return df_popular_downsampled, df_no_popular_downsampled
 
 
 def PrintResult():
@@ -128,9 +156,13 @@ columns = []
 for c in range(len(dataset.columns)-3):
     columns.append(c)
 
+# Splitting the data set into 2 categories to train the model on a limited number of information
+# You can change the number assigned to the splitting
+dfs1, dfs2 = Downsample(dataset, 5000)
+df_downsample = pd.concat([dfs1, dfs2])
 
-X = dataset.iloc[:, columns].values
-y = dataset.iloc[:, -1].values
+X = df_downsample.iloc[:, columns].values
+y = df_downsample.iloc[:, -1].values
 print(dataset)
 
 
@@ -163,4 +195,4 @@ CrossValidation(classifier)
 
 end = time.time()
 
-print(bcolors.GREYBG, f"Runtime of the Nave Base model is {end - start} seconds")
+print(bcolors.UNDERLINE, f"Runtime of the Nave Base model is {end - start} seconds")
