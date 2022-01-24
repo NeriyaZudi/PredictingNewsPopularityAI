@@ -18,7 +18,7 @@
  </a>
  
 <h3> About the project </h3>
-   <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/PY-logo.png" align="right"
+   <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/PY-logo.png" align="right"
      alt="py logo" width="200" height="98">
 
      Course-Project Assignments in AI intro
