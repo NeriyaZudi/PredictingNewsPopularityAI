@@ -37,4 +37,10 @@
    * **Using existing AI libraries in Python**
    * **An in-depth analysis of the methods and a comparison between them**
    
+<h2> Analysis and comparison </h2>   
+
+<img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/svm%20VS%20nb.png" align="center"
+     alt="cover" width="700" height="400">
+
+   
    
