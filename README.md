@@ -3,7 +3,7 @@
  By: Neriya Zudi | <img src="https://img.shields.io/badge/Neriya-Programmer-blue" alt="Ner" > 
  & Omer Alali | <img src="https://img.shields.io/badge/Omer-Programmer-green" alt="Omer" >
 
-<img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/PredictingNews.png" align="center"
+<img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/PredictingNews.png" align="center"
      alt="cover" width="500" height="600">
      
 <h3> About us </h3>
