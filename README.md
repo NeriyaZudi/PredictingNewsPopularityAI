@@ -39,7 +39,7 @@
    
 <h2> Analysis and comparison </h2>   
 
-<img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/svm%20VS%20nb.png" align="center"
+<img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/svm%20VS%20nb.jpg" align="center"
      alt="cover" width="700" height="400">
 
    
