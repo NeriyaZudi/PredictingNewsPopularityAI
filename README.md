@@ -47,8 +47,15 @@
         The database contains about 40,000 news article entries with 60 features / characteristics.<br>
         The database was taken from Kaggle's official website <a href="https://www.kaggle.com/yamqwe/predicting-number-of-shares-of-news-articles"
                                                                  target=blanck> link here </a> .<br>  <br> 
- <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/main%20window.png" align="center" 
-      alt="main win"  width="800" height="400"><br>
+ <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/data%20set.png" align="center" 
+      alt="df"  width="800" height="400"><br>
+<h3> SVM Classification </h3>
+       Results of classification using support vector machine method .<br>
+        The method was able to classify news articles and predict whether they would be popular or not.<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/svm%20results.png" align="left" 
+      alt="svm-res"  width="300" height="400"><br>
+ <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/Analysis%20and%20comparison/Normalized%20confusion%20matrix%20SVM.png" align="right" 
+      alt="svm-res"  width="400" height="400"><br>
  
 
    
