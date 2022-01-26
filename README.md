@@ -63,6 +63,9 @@
       alt="nb-res"  width="500" height="200" margin-left=50px>
  <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/Analysis%20and%20comparison/Normalized%20confusion%20matrix%20NB.png" align="center" 
       alt="nb-res"  width="200" height="200"><br>
+<h3> Analysis and comparison </h3>
+        <strong> Review of the selected methods and comparison between them according to various parameters. Attached is a PDF file </strong>
+        <a href="/PredictingNewsPopularityAI/blob/main/Analysis%20and%20comparison/Predicting%20Popularity%20of%20News%20Articles.pdf">Predicting Popularity of News Articles</a>
  
 
    
