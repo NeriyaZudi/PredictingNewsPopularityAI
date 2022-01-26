@@ -56,6 +56,13 @@
       alt="svm-res"  width="500" height="200" margin-left=50px>
  <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/Analysis%20and%20comparison/Normalized%20confusion%20matrix%20SVM.png" align="center" 
       alt="svm-res"  width="200" height="200"><br>
+ <h3> Naive Bayes Classification </h3>
+       Results of classification using sNaive Bayes method .<br>
+        The method was able to classify news articles and predict whether they would be popular or not.<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/nb-res.png" align="left" 
+      alt="nb-res"  width="500" height="200" margin-left=50px>
+ <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/Analysis%20and%20comparison/Normalized%20confusion%20matrix%20NB.png" align="center" 
+      alt="nb-res"  width="200" height="200"><br>
  
 
    
