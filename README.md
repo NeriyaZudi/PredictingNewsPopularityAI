@@ -41,6 +41,15 @@
 
 <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/svm%20VS%20nb.jpg" align="center"
      alt="cover" width="700" height="400">
+     
+# Some Pictures... 
+<h3> Data Set </h3>
+        The database contains about 40,000 news article entries with 60 features / characteristics.
+        The database was taken from Kaggle's official website <a href="https://www.kaggle.com/yamqwe/predicting-number-of-shares-of-news-articles"
+                                                                 target=blanck> link here </a> .<br>  <br> 
+ <img src="https://github.com/NeriyaZudi/COVID-19-Virus-Simulation/blob/master/pictures/main%20window.png" align="center" 
+      alt="main win"  width="800" height="400"><br>
+ 
 
    
    
