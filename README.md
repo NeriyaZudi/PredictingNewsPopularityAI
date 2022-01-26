@@ -55,7 +55,7 @@
  <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/svm%20results.png" align="left" 
       alt="svm-res"  width="500" height="200">
  <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/Analysis%20and%20comparison/Normalized%20confusion%20matrix%20SVM.png" align="center" 
-      alt="svm-res"  width="200" height="20"><br>
+      alt="svm-res"  width="200" height="200"><br>
  
 
    
