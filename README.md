@@ -40,7 +40,7 @@
 <h2> Analysis and comparison </h2>   
 
 <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/svm%20VS%20nb.jpg" align="center"
-     alt="cover" width="700" height="200">
+     alt="cover" width="700" height="400">
      
 # Some Pictures... 
 <h3> Data Set </h3>
@@ -48,7 +48,7 @@
         The database was taken from Kaggle's official website <a href="https://www.kaggle.com/yamqwe/predicting-number-of-shares-of-news-articles"
                                                                  target=blanck> link here </a> .<br>  <br> 
  <img src="https://github.com/NeriyaZudi/PredictingNewsPopularityAI/blob/main/pictures/data%20set.png" align="center" 
-      alt="df"  width="800" height="400"><br>
+      alt="df"  width="700" height="200"><br>
 <h3> SVM Classification </h3>
        Results of classification using support vector machine method .<br>
         The method was able to classify news articles and predict whether they would be popular or not.<br>  <br> 
